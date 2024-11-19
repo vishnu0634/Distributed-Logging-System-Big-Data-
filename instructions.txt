@@ -19,3 +19,5 @@ Replace <IP address of Kafka broker> with the actual IP.
 Save and exit the editor (Ctrl+O, then Ctrl+X).
 
 make changes to fluentd.conf file to change path of the log files where log is stored.
+
+git clone https://<your-token>@github.com/Cloud-Computing-Big-Data/EC-Team-8-distributed-logging-system
